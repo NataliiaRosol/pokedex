@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://NataliiaRosol.github.io/pokedex",
+  "homepage": "https://nataliiarosol.github.io/pokedex/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
